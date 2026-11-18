@@ -1,1 +1,14 @@
 Nombre: Fernanda Yamileth Díaz García
+Ventana principal de inicio de sesión de clientes/proveedores 
+Cambios a realizar:
+1. Eliminar los botones excedentes de la ventana como (Home, formulario, bienvenida) ya que no correspoden a las funciones de nuestro programa.
+2. Diseñar un espacio con fondo liso y lugar reservado para el logo de la empresa, haciendo que la app se adapte a cualquier cliente.
+3. Crear el formulario de acceso y agregar etiquetas y cajas de texto para solicitar el usuario y contraseña.
+4. Configurar la validación con la base de datos y programar un botón de "Iniciar sesión" para que busque los datos ingresados en nuestra base de datos:
+-Si el usuario existe: muestra un mensaje de bienvenida y da acceso.
+-Si no existe: muestra una alerta de que no está registrado.
+5. Mejorar el diseño.
+
+Breve reflexión
+¿Por qué estos cambios apoyan la idea del proyecto?
+Porque convierten un menú de prueba genérico en un filtro de seguridad real. En lugar de mostrar funciones internas desde el inicio, la nueva pantalla asegura que solo los clientes y proveedores registrados puedan entrar, protegiendo las instalaciones y agilizando el registro en la empresa.
