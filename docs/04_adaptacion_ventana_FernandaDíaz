@@ -9,6 +9,11 @@ Cambios a realizar:
 -Si no existe: muestra una alerta de que no está registrado.
 5. Mejorar el diseño.
 
+
+
+
+
 Breve reflexión
 ¿Por qué estos cambios apoyan la idea del proyecto?
-Porque convierten un menú de prueba genérico en un filtro de seguridad real. En lugar de mostrar funciones internas desde el inicio, la nueva pantalla asegura que solo los clientes y proveedores registrados puedan entrar, protegiendo las instalaciones y agilizando el registro en la empresa.
+Porque convierten un menú de prueba base en una herramienta de seguridad para nuestro cliente. 
+La nueva pantalla asegura que solo los clientes y proveedores registrados puedan entrar, protegiendo las instalaciones y agilizando el registro en la empresa.
